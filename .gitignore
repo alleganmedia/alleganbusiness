@@ -1,0 +1,10 @@
+# SFTP Config:
+sftp-config.json
+
+test.php
+config.php
+/references
+/docs
+/static
+/scripts
+config.php
