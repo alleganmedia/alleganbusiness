@@ -1,6 +1,8 @@
-Allegan Business
+[Allegan Business](http://alleganbusiness.org)
 ==========
 
 ##Features:
-* Responsive.
-* Mobile-first.
+* Responsive, mobile-first design.
+  * Responsive Google Maps.
+* Organization by business & category.
+* Search engine optimization.
